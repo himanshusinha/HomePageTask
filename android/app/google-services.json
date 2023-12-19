@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003000353878",
+    "project_id": "homepagetask-1bf30",
+    "storage_bucket": "homepagetask-1bf30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003000353878:android:ca5de5787924844403d7f7",
+        "android_client_info": {
+          "package_name": "com.homepagetask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_mxs8IXXXA8BILd537ojgBTVjK5xrkh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
